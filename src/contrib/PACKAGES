@@ -1,0 +1,5 @@
+Package: UIB20100Tallers
+Version: 2020.4.0.3
+Imports: knitr (>= 1.29)
+MD5sum: 317fd268b38f0f6065936515c7a7b137
+NeedsCompilation: no
